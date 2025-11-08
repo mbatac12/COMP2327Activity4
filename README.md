@@ -9,8 +9,8 @@ This activity will help to reinforce learning of the Module 4 concepts of:
 
 ## Author
 
-[Your name]
+[Mark Batac]
 
 ## Additional Information
 
-[ Use this space to include additional information that may help in your learning. ]
+[3 Components from module 4 I used in this activity was Object Orientated Programming, in this case contact_list organizes all my methods, Event driven programming which I connected the buttons to functions using signals and slots. Lastly, We used PySide6 here and its widgets such as QMessage,Qlabel and etc. This was a very fun and active activity. ]

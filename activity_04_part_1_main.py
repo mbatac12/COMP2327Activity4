@@ -3,8 +3,8 @@ classes.
 """
 
 __author__ = "ACE Faculty"
-__version__ = "1.0.0"
-__credits__ = ""
+__version__ = "1.0.2"
+__credits__ = "Mark Batac"
 
 # REQUIREMENT - add import statements
 from contact_list.contact_list import ContactList
